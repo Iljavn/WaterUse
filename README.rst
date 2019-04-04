@@ -1,4 +1,4 @@
-Ecan consents summary tables
+Water Usage data repo
 ==================================
 
-This git repository contains code necessary to populate/update the summary tables for the Ecan consents data.
+This git repository contains code for processing water usage data.
